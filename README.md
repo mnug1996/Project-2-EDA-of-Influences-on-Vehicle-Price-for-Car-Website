@@ -1,1 +1,2 @@
-# Project-2-EDA-of-Influences-on-Vehicle-Price-for-Car-Website
+# Project 2 EDA of Influences on Vehicle Price for Car Website
+
